@@ -13,7 +13,7 @@ Other implementations in: [Go lang](https://github.com/igk1972/netlify-cms-oauth
 **Install Repo Locally**
 
 ```bash
-git clone https://github.com/vencax/netlify-cms-github-oauth-provider
+git clone https://github.com/bahadorify/netlify-cms-github-oauth-provider
 cd netlify-cms-github-oauth-provider
 npm install
 ```
